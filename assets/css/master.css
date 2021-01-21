@@ -35,6 +35,7 @@
   width: 60%;
   padding-left: 15px;
   padding-right: 15px;
+  padding-bottom: 10px;
 }
 
 .bg-pink {
@@ -52,7 +53,6 @@
   background: lightblue;
   height: 100px;
   width: 100%;
-  margin-top: 10px;
 }
 
 .bg-blue-two {
@@ -69,6 +69,7 @@
 .bg-fill {
   background-color: #49A5FF;
   width: 100%;
+  height: 30%;
   float: left;
   margin-top: 20px;
 }
