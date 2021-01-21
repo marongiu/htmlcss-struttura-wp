@@ -17,6 +17,7 @@
   clear: both;
 }
 
+/* Inizio colonne */
 
 [class^="col-"] {
   float: left;
@@ -38,6 +39,7 @@
   padding-bottom: 10px;
 }
 
+/* Background layout */
 .bg-pink {
   background: #e579e6;
   height: 150px;
@@ -72,8 +74,4 @@
   height: 30%;
   float: left;
   margin-top: 20px;
-}
-
-.bg {
-  margin-top: 10px;
 }
